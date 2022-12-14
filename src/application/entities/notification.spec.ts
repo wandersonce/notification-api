@@ -13,7 +13,5 @@ describe('Notification', () => {
   
     expect(notification).toBeTruthy();
   })
-
-
 })
 
